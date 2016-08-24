@@ -40,6 +40,7 @@
 			children = (
 				438660E11D6E57DF00D7F2CB /* myGitHub */,
 				438660E01D6E57DE00D7F2CB /* Products */,
+				438660F41D6E582D00D7F2CB /* SupportFiles */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,13 +55,21 @@
 		438660E11D6E57DF00D7F2CB /* myGitHub */ = {
 			isa = PBXGroup;
 			children = (
-				438660E21D6E57DF00D7F2CB /* AppDelegate.swift */,
 				438660E41D6E57DF00D7F2CB /* ViewController.swift */,
 				438660E61D6E57DF00D7F2CB /* Main.storyboard */,
+			);
+			path = myGitHub;
+			sourceTree = "<group>";
+		};
+		438660F41D6E582D00D7F2CB /* SupportFiles */ = {
+			isa = PBXGroup;
+			children = (
+				438660E21D6E57DF00D7F2CB /* AppDelegate.swift */,
 				438660E91D6E57DF00D7F2CB /* Assets.xcassets */,
 				438660EB1D6E57DF00D7F2CB /* LaunchScreen.storyboard */,
 				438660EE1D6E57DF00D7F2CB /* Info.plist */,
 			);
+			name = SupportFiles;
 			path = myGitHub;
 			sourceTree = "<group>";
 		};
